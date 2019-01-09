@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Ron.SwaggerTest</name>
+    </assembly>
+    <members>
+        <member name="T:Ron.SwaggerTest.Controllers.ValuesController">
+            <summary>
+            演示分组
+            </summary>
+        </member>
+        <member name="M:Ron.SwaggerTest.Controllers.ValuesController.Get">
+            <summary>
+             获取数组
+            </summary>
+            <remarks>
+            <code>
+            输出参数：["value1", "value2"]
+            </code>
+            </remarks>
+            <returns></returns>
+        </member>
+        <member name="M:Ron.SwaggerTest.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+             获取单个值
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Ron.SwaggerTest.Controllers.ValuesController.Post(System.String)">
+            <summary>
+            Post 接口
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Controllers.ValuesController.Put(System.Int32,System.String)">
+            <summary>
+             Put 接口
+            </summary>
+            <param name="id"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Controllers.ValuesController.Delete(System.Int32)">
+            <summary>
+             Delete 接口
+            </summary>
+            <param name="id"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Program.Main(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Program.CreateWebHostBuilder(System.String[])">
+            <summary>
+            
+            </summary>
+            <param name="args"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Ron.SwaggerTest.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+             
+            </summary>
+            <param name="configuration"></param>
+            <param name="env"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:Ron.SwaggerTest.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>

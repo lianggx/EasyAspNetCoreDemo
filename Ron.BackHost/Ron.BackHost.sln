@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ron.BackHost", "Ron.BackHost\Ron.BackHost.csproj", "{271AF68C-1FD2-473E-ADE1-43ADE4B3F852}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{271AF68C-1FD2-473E-ADE1-43ADE4B3F852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{271AF68C-1FD2-473E-ADE1-43ADE4B3F852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{271AF68C-1FD2-473E-ADE1-43ADE4B3F852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{271AF68C-1FD2-473E-ADE1-43ADE4B3F852}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B775066-0B2B-4BD8-999B-1D31E60A6FB2}
+	EndGlobalSection
+EndGlobal

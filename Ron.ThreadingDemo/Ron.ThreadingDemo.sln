@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ron.ThreadingDemo", "Ron.ThreadingDemo\Ron.ThreadingDemo.csproj", "{61EBB58A-28EC-4BDF-947E-505C914ACD5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61EBB58A-28EC-4BDF-947E-505C914ACD5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61EBB58A-28EC-4BDF-947E-505C914ACD5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61EBB58A-28EC-4BDF-947E-505C914ACD5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61EBB58A-28EC-4BDF-947E-505C914ACD5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {734E2F3E-4844-4986-961F-1F4632BA908A}
+	EndGlobalSection
+EndGlobal

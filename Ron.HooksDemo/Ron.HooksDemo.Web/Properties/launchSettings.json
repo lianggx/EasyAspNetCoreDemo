@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Ron.HooksDemo.Web": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_STARTUP_HOOKS": "C:\\Users\\Administrator\\Source\\Repos\\Ron.HooksDemo\\Ron.Init\\bin\\Debug\\netcoreapp2.2\\Ron.Init.dll;C:\\Users\\Administrator\\Source\\Repos\\Ron.HooksDemo\\Ron.License\\bin\\Debug\\netcoreapp2.2\\Ron.License.dll"
+      }
+    }
+  }
+}
