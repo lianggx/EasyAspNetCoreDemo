@@ -5,3 +5,5 @@
 **/.vs
 **/bin
 **/obj
+**/launchSettings.json
+**/*.csproj.user
